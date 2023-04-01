@@ -37,7 +37,7 @@ class App extends Component {
 			<h1>LOADING</h1> :
 			(
 				<div className='tc kbr'>
-					<h1 className = 'f1'>MYKITTEN HUB</h1>
+					<h1 className = 'f1'>kittensHUB</h1>
 					<Search searchChange = {this.handleChange} />
 					<Scroll>
 						<Kittens catsArray = {filteredCats} />
