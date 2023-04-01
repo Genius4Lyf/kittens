@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/kittens/static/css/main.96eff500.css",
+    "main.js": "/kittens/static/js/main.2d91eccd.js",
+    "static/js/787.32032a02.chunk.js": "/kittens/static/js/787.32032a02.chunk.js",
+    "static/media/KittenSlantTrial.woff": "/kittens/static/media/KittenSlantTrial.2df6d6ea0576bd9ecbf6.woff",
+    "index.html": "/kittens/index.html",
+    "static/media/heart.svg": "/kittens/static/media/heart.286db198ed3962d7ec4724276f411c63.svg",
+    "main.96eff500.css.map": "/kittens/static/css/main.96eff500.css.map",
+    "main.2d91eccd.js.map": "/kittens/static/js/main.2d91eccd.js.map",
+    "787.32032a02.chunk.js.map": "/kittens/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96eff500.css",
+    "static/js/main.2d91eccd.js"
+  ]
+}
